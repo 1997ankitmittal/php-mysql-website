@@ -1,6 +1,6 @@
 <?php 
 include("config.php"); 
-//hello ankit
+//hello ankit 22222
 $error=0;
 
 if (isset($_POST['login']) && !empty($_POST['email']) && !empty($_POST['password'])) {
